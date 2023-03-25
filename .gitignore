@@ -1,0 +1,59 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Topics/Conditional statement/Check a number is positive/out/
+/Topics/Conditional statement/Check a number is positive/out/production/classes/
+/Topics/Conditional statement/Interval/out/
+/Topics/Conditional statement/Interval/out/production/classes/
+/Topics/Conditional statement/The army of units/out/
+/Topics/Conditional statement/The army of units/out/production/classes/
+/Topics/Increment and decrement/Decrement all/out/
+/Topics/Increment and decrement/Decrement all/out/production/classes/
+/Topics/Integer types and operations/Arithmetic expression/out/
+/Topics/Integer types and operations/Arithmetic expression/out/production/classes/
+/Topics/Integer types and operations/First digit/out/
+/Topics/Integer types and operations/First digit/out/production/classes/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/production/classes/
+/Topics/Integer types and operations/Reversing input numbers/out/
+/Topics/Integer types and operations/Reversing input numbers/out/production/classes/
+/Topics/Integer types and operations/Tens digit/out/
+/Topics/Integer types and operations/Tens digit/out/production/classes/
+/Topics/Integer types and operations/The sum of digits/out/
+/Topics/Integer types and operations/The sum of digits/out/production/classes/
+/Topics/Printing data/From 0 to 4/out/
+/Topics/Printing data/From 0 to 4/out/production/classes/
+/Topics/Printing data/Printing a magic letter/out/
+/Topics/Printing data/Printing a magic letter/out/production/classes/
+/Topics/Printing data/The result of a Tic-Tac-Toe game/out/
+/Topics/Printing data/The result of a Tic-Tac-Toe game/out/production/classes/
+/Topics/Relational operators/Is between/out/
+/Topics/Relational operators/Is between/out/production/classes/
+/Topics/Scanning the input/Guest list of a hotel/out/
+/Topics/Scanning the input/Guest list of a hotel/out/production/classes/
+/Topics/Scanning the input/Hiring a chef/out/
+/Topics/Scanning the input/Hiring a chef/out/production/classes/
+/Topics/Scanning the input/Print strings in the reverse order/out/
+/Topics/Scanning the input/Print strings in the reverse order/out/production/classes/
+/Topics/Scanning the input/Printing strings in the same order/out/
+/Topics/Scanning the input/Printing strings in the same order/out/production/classes/
+/Topics/String/Comparing strings ignoring whitespaces/out/
+/Topics/String/Comparing strings ignoring whitespaces/out/production/classes/
+/Topics/String/Extracting a substring/out/
+/Topics/String/Extracting a substring/out/production/classes/
+/Topics/The for-loop/Fizz Buzz/out/
+/Topics/The for-loop/Fizz Buzz/out/production/classes/
+/Topics/The for-loop/Numbers divisible by six/out/
+/Topics/The for-loop/Numbers divisible by six/out/production/classes/
+/Topics/The for-loop/The count of numbers divisible by N/out/
+/Topics/The for-loop/The count of numbers divisible by N/out/production/classes/
+/Topics/The for-loop/The product of numbers from a to b/out/
+/Topics/The for-loop/The product of numbers from a to b/out/production/classes/
+/Topics/The for-loop/The sum of integers from a to b/out/
+/Topics/The for-loop/The sum of integers from a to b/out/production/classes/
+/Topics/Types and variables/Assignments/out/
+/Topics/Types and variables/Assignments/out/production/classes/
+/Topics/Types and variables/Fill the declaration/out/
+/Topics/Types and variables/Fill the declaration/out/production/classes/
